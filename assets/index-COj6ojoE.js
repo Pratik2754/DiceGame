@@ -132,7 +132,7 @@ Error generating stack: `+o.message+`
         font-size: 24px;
         font-weight: 200px;
     }
-`,Um=()=>R.jsxs(Bm,{children:[R.jsx("h2",{children:"How to play dice game"}),R.jsxs("div",{className:"text",children:[R.jsx("p",{children:"Select any number"}),R.jsx("p",{children:"Click on dice image"}),R.jsxs("p",{children:["after click on dice if selected number is equal to dice number you will get same point as dice"," "]}),R.jsx("p",{children:"if you get wrong guess then 2 point will be dedcuted "})]})]}),Bm=qe.div`
+`,Um=()=>R.jsxs(Bm,{children:[R.jsx("h2",{children:"How to play dice game"}),R.jsxs("div",{className:"text",children:[R.jsx("p",{children:"Select any number"}),R.jsx("p",{children:"Click on dice image"}),R.jsxs("p",{children:["After clicking on dice if selected number is equal to dice number you will get same point as dice"," "]}),R.jsx("p",{children:"If you get wrong guess then point will be deducted by the same number as on the dice."})]})]}),Bm=qe.div`
   max-width: 800px;
   margin: 0 auto;
   background-color: #fbf1f1;
